@@ -14,7 +14,7 @@ PowerShell Module for displaying **Windows 10** and **Windows Server 2019** Toas
 ## Use the following One-liner to Temp Run in session:
 
 ```powershell
-iex ((New-Object System.Net.WebClient).DownloadString("https://t.ly/y2P_"))
+iex ((New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/AlecMcCutcheon/Portable-BurntToast/main/Portable-BurntToast.ps1"))
 ```
 
 See the [PowerShell Gallery](http://www.powershellgallery.com/packages/BurntToast/) for the complete details and instructions.
