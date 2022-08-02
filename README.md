@@ -9,7 +9,7 @@
 
 ![BurntToast Logo Banner](/Media/BurntToast-Wide.png)
 
-PowerShell Module for displaying **Windows 10** and **Windows Server 2019** Toast Notifications
+A script version of Burnt Toast Notifications that you get temp import into your PS session without installing
 
 ## Use the following One-liner to Temp Run in session:
 
@@ -63,8 +63,3 @@ New-BurntToastNotification -Text 'WAKE UP!' -Sound 'Alarm2' -SnoozeAndDismiss
 ## Image Credit
 
 The [default image](/Media/BurntToast.png) for BurntToast Notifications is a photo taken by [Craig Sunter](https://www.flickr.com/photos/16210667@N02/17230428864)
-
-## Contact
-
-- Twitter: [@WindosNZ](https://twitter.com/windosnz)
-- Blog: [ToastIT.dev](https://toastit.dev/)
