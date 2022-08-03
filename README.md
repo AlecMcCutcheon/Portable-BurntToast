@@ -9,7 +9,7 @@
 
 ![BurntToast Logo Banner](/Media/BurntToast-Wide.png)
 
-A script version of Burnt Toast Notifications that you get temp import into your PS session without installing
+A script version of Burnt Toast Notifications that you can temp import into your PS session without installing
 
 ## Use the following One-liner to Temp Run in session:
 
